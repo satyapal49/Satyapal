@@ -9,13 +9,9 @@ Email :- satyapalraj49@gmail.com
 <p align="left">
   
 <a href="https://www.linkedin.com/in/satyapal-raj-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyapal-raj-/" height="30" width="40" /></a>
-  
 <a href="https://www.instagram.com/mr_satyapal_kashyap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_satyapal_kashyap" height="30" width="40" /></a>
-
 <a href="https://leetcode.com/u/satyapal49/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyapal49" height="30" width="40" /></a>
-
 <a href="https://www.geeksforgeeks.org/user/satyapalraj49/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satyapalraj49" height="30" width="40" /></a>
-
 <a href="https://discord.gg/satyapal49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="satyapal49" height="30" width="40" /></a>
 </p>
 
