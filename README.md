@@ -22,7 +22,7 @@ Email :- satyapalraj49@gmail.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyapal49&show_icons=true&locale=en" alt="satyapal49" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyapal49&" alt="satyapal49" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyapal49" alt="satyapal49&show_icons=true&locale=en" /></p>
 
 <div align="center">
   <br><br>
