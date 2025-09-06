@@ -25,7 +25,6 @@ Email :- satyapalraj49@gmail.com
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyapal49" alt="satyapal49&show_icons=true&locale=en" /></p>
 
 <div align="center">
-  <br>
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
